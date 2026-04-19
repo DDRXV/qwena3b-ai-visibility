@@ -1,0 +1,7 @@
+export { Hero } from "./hero/hero"
+export { Features } from "./features/features"
+export { HowItWorks } from "./how-it-works/how-it-works"
+export { Testimonials } from "./testimonials/testimonials"
+export { Pricing } from "./pricing/pricing"
+export { FAQ } from "./faq/faq"
+export { CTASection } from "./cta/cta-section"
